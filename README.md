@@ -1,8 +1,7 @@
 # deTube Reverse Playlists
 
 **deTube Reverse Playlists** is a userscript to reverse YT playlist traversal using keyboard shortcuts.<br>
-It allows you to jump to the previous video in a playlist with **ALT+R**, and to disable or reset the feature with **ALT+L**.<br>
-No buttons or UI are added, everything is controlled via keyboard.
+It allows you to jump to the previous video in a playlist with **ALT+R**, and to disable or reset the feature with **ALT+L**.
 
 ## How it works
 
